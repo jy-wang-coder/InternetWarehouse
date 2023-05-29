@@ -14,3 +14,6 @@ x可能是内生的(与error相关)，此时需要剥离x,将x分为和err有关
 instrumental z需要满足的条件：  
 1） inclusive: 与x相关  
 2） exclusice: 不与y直接相关，只能通过作用x来作用y  
+
+3. 为什么regression 需要 moderator?  
+https://scholar.harvard.edu/sigou-interdisciplinary-blog/regression-moderator-101
